@@ -1,0 +1,25 @@
+.label {
+    text-transform: uppercase;
+    font-size: 2.2rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+    margin-left: 1.3rem;
+  }
+  
+  /* INCOME COLORS */
+  .income .label {
+    color: #019245;
+  }
+  
+  /* EXPENSES COLORS */
+  .expenses .label {
+    color: #e45735;
+  }
+  /*# sourceMappingURL=styles.css.map */
+  .txMHX{
+    margin: 10px;
+  }
+
+  .bxycqy{
+    margin: 10px;
+  }
